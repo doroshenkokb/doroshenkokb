@@ -38,9 +38,6 @@
 
 ---
 
-
 ### ⚙️ GitHub статистика:
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TroutBBBoy"><img src="https://github-readme-stats.vercel.app/api?username=TroutBBBoy&show_icons=true&hide=stars,issues,&title_color=f97316&text_color=3382ed&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="TroutBBBoy's GitHub stats" /></a>
