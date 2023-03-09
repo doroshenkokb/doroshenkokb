@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С сентября 2022 года начался мой путь в backend разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
+Я начинающий python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 - :telescope: Учусь на курсах Яндекс Практикум!
 
