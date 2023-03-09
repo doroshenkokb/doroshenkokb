@@ -1,4 +1,5 @@
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Кирилл.
+==============================================================================================================================
 ---
 
 ### :man_technologist: Обо мне:
@@ -10,6 +11,8 @@
 - :zap: Хочу освоить новую проффесию и найти работу.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DoroshenkoK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dambay69)
+- 
+- * ✉️  You can contact me at [doroshenko\_kirill@bk.ru](mailto:doroshenko_kirill@bk.ru)
 ---
 
 ### 🤝 Социальные сети:
