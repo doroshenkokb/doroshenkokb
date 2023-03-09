@@ -11,8 +11,7 @@
 - :zap: Хочу освоить новую проффесию и найти работу.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DoroshenkoK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dambay69)
-- 
-- * ✉️  You can contact me at [doroshenko\_kirill@bk.ru](mailto:doroshenko_kirill@bk.ru)
+- ✉️ [doroshenko\_kirill@bk.ru](mailto:doroshenko_kirill@bk.ru)
 ---
 
 ### 🤝 Социальные сети:
