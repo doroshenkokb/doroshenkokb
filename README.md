@@ -10,7 +10,7 @@
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dambay69)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DoroshenkoK-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dambay69)
 ---
 
 ### 🤝 Социальные сети:
