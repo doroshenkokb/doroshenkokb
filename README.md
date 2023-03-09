@@ -41,13 +41,6 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/TroutBBBoy"><img src="https://github-readme-stats.vercel.app/api?username=TroutBBBoy&show_icons=true&hide=stars,issues,&title_color=f97316&text_color=3382ed&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="TroutBBBoy's GitHub stats" /></a>
