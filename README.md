@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Kirill!
 
-- ⚙️ I'm using: `Python`, `Docker`, `SQLite`, `Git`, 
+- ⚙️ I'm using: `Python`, `Docker`, `SQLite`, `Git`
 - 🌍 I'm actively studying: `Django`, `DjangoRest` `.html`, `.css`
 - 🌱 Learning about `Telegram bots`
 - 💬 Ping me about **development**
